@@ -1,5 +1,3 @@
-# hyprconf
+# Dark Mode
+xdg-desktop-portal-gtk && nwg-look //kurulan temalari secip ayarlamamizi saglayan paket
 
-
-waybar -> btop, icon, shutdown icon
-dark mode
